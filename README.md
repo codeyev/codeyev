@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeyev&label=Profile%20views&color=0e75b6&style=flat" alt="codeyev" /> </p>
 
-- 👨‍💻 All of my projects are available at **[https://codeyev.com](https://codeyev.com)**
+- 💼 All of my projects are available at **[https://codeyev.com](https://codeyev.com)**
 
 - 📫 How to reach me **info@codeyev.com**
 
