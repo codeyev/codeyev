@@ -1,3 +1,10 @@
+<a href="https://codeyev.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeyev/codeyev/main/assets/codeyev-logo-dark.svg">
+    <img alt="codeyev" src="https://raw.githubusercontent.com/codeyev/codeyev/main/assets/codeyev-logo.svg" height="48">
+  </picture>
+</a>
+
 # Hi 👋, I'm Ibrahim Aliyev
 
 ### Full-stack developer from Baku, Azerbaijan
